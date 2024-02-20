@@ -1,4 +1,4 @@
-package org.csystem.project.mastermind.commandprompt;
+package org.csystem.project.commandprompt;
 
 import java.util.Scanner;
 

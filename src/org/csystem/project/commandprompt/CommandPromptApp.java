@@ -1,4 +1,4 @@
-package org.csystem.project.mastermind.commandprompt;
+package org.csystem.project.commandprompt;
 
 public class CommandPromptApp {
     public static void run(){
